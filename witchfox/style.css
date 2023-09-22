@@ -1,0 +1,114 @@
+table  {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #0c131b;
+}
+
+.title-header {
+    margin: 0;
+    padding: 0;
+    margin-top: 18px;
+    text-align: center;
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.wite-header {
+    margin: 0;
+    padding: 0;
+    margin-top: 19px;
+    text-align: center;
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.text{
+    margin: 0;
+    padding: 0;
+    padding-left: 42px;
+padding-right: 42px;
+margin-top: 20px;
+text-align: left;
+font-size: 14px;
+line-height: 22px;
+color: #86918c;
+font-family: "Arial";
+}
+.orange-text{
+    color: #e8a336;
+    text-decoration: none;
+}
+.pomaranch{
+    color: #fa5d26;
+}
+.poster{
+    margin: 0;
+    margin-top: 42px;
+}
+.button-link{
+    margin-top: 49px;
+  
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 16px;
+text-align: center;
+    width: 299px;
+/* height: 47px; */
+border-radius: 3px;
+background-color: #9f15a9;
+font-size: 24px;
+line-height: 22px;
+text-transform: uppercase;
+color: #fffff8;
+font-weight: bold;
+font-family: "Arial";
+text-decoration: none;
+}
+.blue{
+    font-size: 36px;
+text-transform: uppercase;
+color: #20b4bb;
+font-weight: bold;
+font-family: "Arial";
+text-align: center;
+}
+.purpure{
+    color: #9f15a9;
+}
+.font{
+    font-size: 18px;
+}
+.action{
+    font-size: 11px;
+line-height: 22px;
+color: #edd3ae;
+font-weight: bold;
+font-family: "Arial";
+text-align: center;
+}
+.decoretion{
+    text-decoration: none;
+}
+.button-botum{
+    margin-bottom: 79px;
+}
+.baground-cream {
+    background-color: #edd3ae;
+}
+.footer{
+    font-size: 36px;
+color: #2d3d71;
+font-weight: bold;
+font-family: "Arial";
+text-align: center;
+}
+.footer-text{
+    font-size: 14px;
+line-height: 22px;
+color: #000000;
+font-family: "Arial";
+text-align: center;
+}
